@@ -9,10 +9,15 @@ Once up to date make changes to your code
 Go into your repo: cd firstname(name of repo)
 
 Check : git status 
+
 if not in sync, push to master:
+
 git add . (. represents all)
+
 git commit -a(for all)
+
 git commit -am 'your commit message- short description of changes you did in this commit so others will understand'
+
 git push origin master (where master is brand name)
 
 

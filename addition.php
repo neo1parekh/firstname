@@ -6,7 +6,9 @@ function add ($a=2, $b=2){
 }
 
 
-add(3,1);
+$sum = add(3,1);
+
+echo $sum;
 
 
 
